@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "web",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/react": "^17.0.0"
+  }
+}
