@@ -1,15 +1,25 @@
 ---
-title: Awesome kitties
+title: Hello Tim
 date: 2019-03-17T19:31:20.591Z
-cats:
-  - description: 'Maru is a Scottish Fold from Japan, and he loves boxes.'
-    name: Maru (まる)
-  - description: Lil Bub is an American celebrity cat known for her unique appearance.
-    name: Lil Bub
-  - description: 'Grumpy cat is an American celebrity cat known for her grumpy appearance.'
-    name: Grumpy cat (Tardar Sauce)
+cats: []
 ---
+I create this web app using:
 
-Welcome to my awesome page about cats of the internet.
+- Next
+- Netlify CMS
 
-This page is built with NextJS, and content is managed in Netlify CMS
+This content was created via Netlify CMS and is stored via version control integration between GitHub and Netlify.
+
+In terms of auth for CMS for content creators you can do integrations with:
+
+- Azure (Active directory)
+- GitHub
+- GitLab
+
+Or customise your own backend to this
+
+Let's catch on Monday and I will show you.
+
+Best
+
+Pedro
